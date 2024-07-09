@@ -1,3 +1,7 @@
+# Archived
+
+Since the flutter team has added google_sign_in_macos to their repo this is no longer maintained. Please use [google_sign_in_ios](https://github.com/flutter/packages/tree/main/packages/google_sign_in/google_sign_in_ios).
+
 # google\_sign\_in\_macos
 
 The osx implementation of [`google_sign_in`][1].
